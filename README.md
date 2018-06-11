@@ -1,6 +1,8 @@
 # **MongoDB/Mongoose NYT web-scraper**
 
-### To view the deployed version, _**[click here!]( * being fixed * )**_
+### To view the deployed version, _**[click here!](https://lit-beyond-17206.herokuapp.com/)**_
+
+
 
 ## Technologies used:
 * Node.js
