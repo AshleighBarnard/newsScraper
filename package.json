@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "A web scraping app that uses mongo for storage",
   "main": "server.js",
-  "author": "Marco Principio",
+  "author": "Ashleigh Barnard",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/m081779/mongo-scraper/issues"
+    "url": "https://github.com/AshleighBarnard/newsScraper/issues"
   },
-  "homepage": "https://github.com/m081779/mongo-scraper#readme",
+  "homepage": "https://github.com/ashleighbarnard/newsScraper#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "cheerio": "^1.0.0-rc.2",
