@@ -1,6 +1,6 @@
 # **MongoDB/Mongoose NYT web-scraper**
 
-### To view the deployed version, _**[click here!](https://mongo-scraper-principio.herokuapp.com/)**_
+### To view the deployed version, _**[click here!]( * being fixed * )**_
 
 ## Technologies used:
 * Node.js
