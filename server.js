@@ -13,6 +13,8 @@ const app = express();
 
 
 //setting up the database
+
+
 const config = require('./config/database');
 mongoose.Promise = Promise;
 mongoose
@@ -57,4 +59,5 @@ app.use('/scrape', scrape);
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, function () {
   console.log(`Listening on http://localhost:${PORT}`);
+
 });
