@@ -19,6 +19,7 @@
 * Bootstrap 3
 * CSS3 (including css animations and transitions)
 * HTML5
+## CLICK ON SCRAPE NEW ARTICLES TO BEGIN 
 
 ## This is an app that uses Cheerio to scrape the New York Times US section and pull the most recent 20 articles:
 ![Mongo-scraper Img](public/assets/img/preview1.png)
